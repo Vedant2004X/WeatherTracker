@@ -36,7 +36,7 @@ This project is focused on providing users with a straightforward and focused we
 To run tests, run the following command
 
 ```bash
-  npm run test
+  https://youtu.be/nM8fM4m3PX0
 ```
 
 
