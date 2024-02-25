@@ -6,7 +6,7 @@
 The weather tracking website is a specialized platform focused on providing users with specific weather information for their chosen locations. The website will offer the following features:Temperature: Users can view the current temperature in degrees Celsius or Fahrenheit for their selected location.Wind Speed: Information on the current wind speed in miles per hour or kilometers per hour.Sunrise Time: Display of the local time for sunrise at the chosen location.Sunset Time: Information on the local time for sunset at the selected location.Atmospheric Pressure: Users can access the current atmospheric pressure in millibars or inches of mercury.Location Search: A search function where users can input a city, zip code, or geographic coordinates to retrieve weather data for their desired location.
 
 This project is focused on providing users with a straightforward and focused weather tracking experience, emphasizing temperature, wind speed, sunrise time, sunset time, and atmospheric pressure for their chosen locations.
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo]()
 
 
 ## License
