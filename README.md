@@ -28,8 +28,10 @@ This project is focused on providing users with a straightforward and focused we
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+![1](https://github.com/Vedant2004X/WeatherTracker/assets/142646048/3618f505-e68b-45fb-a818-650fc86011ef.png)
+![2](https://github.com/Vedant2004X/WeatherTracker/assets/142646048/b04f28da-3195-4633-9983-753a2fb53d09.png)
+![3](https://github.com/Vedant2004X/WeatherTracker/assets/142646048/12450415-b93d-44fd-8e46-b40f4cad11bd.png)
 
 ## Running Tests
 
